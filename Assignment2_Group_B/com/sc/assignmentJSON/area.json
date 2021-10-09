@@ -1,0 +1,9 @@
+{
+	"Triangle": {
+		"base": 10,
+		"height": 15
+	},
+	"Square": {
+		"side": 7
+	}
+}

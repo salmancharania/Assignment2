@@ -1,0 +1,16 @@
+{
+	"firstName": "Salman",
+	"lastName": "Charania",
+	"address": [
+		{
+			"street": "Queen St",
+			"city": "Toronto",
+			"state": "ON"
+		},
+		{
+			"street": "Kennedy Rd",
+			"city": "Montreal",
+			"state": "QB"
+		}
+	]
+}
